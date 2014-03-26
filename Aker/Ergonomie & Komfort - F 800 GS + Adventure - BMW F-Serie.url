@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.wunderlich.de/shop/bmw-f-serie/f-800-gs-adventure/ergonomie-komfort.html?___store=en&___from_store=de
+[DOC_fb_xdm_frame_http]
+BASEURL=http://static.ak.facebook.com/connect/xd_arbiter.php?version=27
+ORIGURL=http://static.ak.facebook.com/connect/xd_arbiter.php?version=27#channel=f138645baf06412&channel_path=%2Fshop%2Fbmw-f-serie%2Ff-800-gs-adventure%2Fergonomie-komfort.html%3F___store%3Den%26___from_store%3Dde%26fb_xd_fragment%23xd_sig%3Df2f1ae0a6bb5e%26&origin=http%3A%2F%2Fwww.wunderlich.de
+[DOC_fb_xdm_frame_https]
+BASEURL=https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=27
+ORIGURL=https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=27#channel=f138645baf06412&channel_path=%2Fshop%2Fbmw-f-serie%2Ff-800-gs-adventure%2Fergonomie-komfort.html%3F___store%3Den%26___from_store%3Dde%26fb_xd_fragment%23xd_sig%3Df2f1ae0a6bb5e%26&origin=http%3A%2F%2Fwww.wunderlich.de
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.wunderlich.de/shop/bmw-f-serie/f-800-gs-adventure/ergonomie-komfort.html?___store=en&___from_store=de
+IDList=

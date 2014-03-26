@@ -1,0 +1,36 @@
+[DEFAULT]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+[DOC_google_ads_iframe_/15222045/mt_home_atf_728x90_0]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/15222045/mt_home_atf_728x90_0__hidden__]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC#2360#59]
+BASEURL=https://googleads.g.doubleclick.net/pagead/drt/si?p=CAA&ut=AFAKxlQAAAAAUx7V3rsm75Ha4xoG7tRk5OOGvpKevX3p
+ORIGURL=http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211
+[DOC_google_ads_iframe_/15222045/mt_home_btf_300x250_0]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/15222045/mt_home_btf_300x250_0__hidden__]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/15222045/mt_home_atf_160x160_0]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/15222045/mt_home_atf_160x160_0__hidden__]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/15222045/mt_home_atf_160x600_0]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/15222045/mt_home_atf_160x600_0__hidden__]
+BASEURL=http://www.marinetraffic.com/ru/ais/home/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.marinetraffic.com/ru/ais/home/
+IDList=
+IconFile=http://www.marinetraffic.com/favicon.ico
+IconIndex=1
