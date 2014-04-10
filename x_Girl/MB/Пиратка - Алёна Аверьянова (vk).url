@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://vk.com/harleysss
+[DOC_queue_transport_frame]
+BASEURL=http://q30.queuev4.vk.com/q_frame.php?7
+ORIGURL=http://q30.queuev4.vk.com/q_frame.php?7
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://vk.com/harleysss
+IDList=
+IconFile=http://vk.com/images/icons/pinbar_favicon_vk.ico?3
+IconIndex=1

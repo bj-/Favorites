@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://velopiter.spb.ru/trips/begins.htm
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://velopiter.spb.ru/trips/begins.htm
+IDList=
+IconFile=http://velopiter.spb.ru/favicon.ico
+IconIndex=1

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://declight.ru/cal_lm-cd.php?ugol2=60&cd2=20&go2=%CF%E5%F0%E5%F1%F7%E8%F2%E0%F2%FC
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://declight.ru/cal_lm-cd.php?ugol2=60&cd2=20&go2=%CF%E5%F0%E5%F1%F7%E8%F2%E0%F2%FC
+IDList=
+IconFile=http://declight.ru/favicon.ico
+IconIndex=1
