@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://rotopax.com/3-Gallon-Packs/
+[DOC_fb_xdm_frame_http]
+BASEURL=http://static.ak.facebook.com/connect/xd_arbiter/8n77RrR4jg0.js?version=40
+ORIGURL=http://static.ak.facebook.com/connect/xd_arbiter/8n77RrR4jg0.js?version=40#channel=f326b571bd82558&origin=http%3A%2F%2Frotopax.com
+[DOC_fb_xdm_frame_https]
+BASEURL=https://s-static.ak.facebook.com/connect/xd_arbiter/8n77RrR4jg0.js?version=40
+ORIGURL=https://s-static.ak.facebook.com/connect/xd_arbiter/8n77RrR4jg0.js?version=40#channel=f326b571bd82558&origin=http%3A%2F%2Frotopax.com
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://rotopax.com/3-Gallon-Packs/
+IDList=
+IconFile=http://rotopax.com/favicon.ico
+IconIndex=1
