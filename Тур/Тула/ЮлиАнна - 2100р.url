@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.juli-anna.ru/price.php
+[DOC_rh-chatFrame]
+BASEURL=http://web.redhelper.ru/chat/?c=julianna&version=3.1.86.5317
+ORIGURL=http://web.redhelper.ru/chat/?c=julianna&version=3.1.86.5317#eyJ1cmwiOiJodHRwOi8vd3d3Lmp1bGktYW5uYS5ydS9wcmljZS5waHAiLCJjb21wYW55SWQiOjIyNTIzLCJzZXR0aW5ncyI6eyJ0ZW1wbGF0ZSI6InRlbXBsYXRlLmh0bWwifX0=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.juli-anna.ru/price.php
+IDList=
+IconFile=http://www.juli-anna.ru/favicon.ico
+IconIndex=1
