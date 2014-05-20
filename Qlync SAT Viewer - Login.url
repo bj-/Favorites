@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://sat.qlync.com/
+[DOC#212]
+BASEURL=about:blank
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://sat.qlync.com/login.php
+IDList=
