@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.avto-nomer.ru/
+[DOC_aswift_0]
+BASEURL=http://www.avto-nomer.ru/
+ORIGURL=
+[DOC_aswift_0_google_ads_frame1_google_ad_51167630459]
+BASEURL=http://pagead2.googlesyndication.com/sadbundle/13282295550411014144/_min_Ulmart_1a_160x600.html
+ORIGURL=http://pagead2.googlesyndication.com/sadbundle/13282295550411014144/_min_Ulmart_1a_160x600.html#t=-1394140009&p=http%3A%2F%2Fgoogleads.g.doubleclick.net
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.avto-nomer.ru/
+IDList=
+IconFile=http://www.avto-nomer.ru/favicon.ico
+IconIndex=1
