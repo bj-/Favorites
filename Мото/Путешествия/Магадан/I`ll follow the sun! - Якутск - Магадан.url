@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://misha-saper.livejournal.com/6922.html
+[DOC_ljtime_iframe_AdFox_iframe_885737]
+BASEURL=http://l-stat.livejournal.net/discovery/times?lang=en_US&is_paid=false&country=RU&v=1413292250
+ORIGURL=
+[DOC_green_ifr_1413308941711]
+BASEURL=http://misha-saper.livejournal.com/6922.html
+ORIGURL=javascript:document.write(window["contents"]);document.close();
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://misha-saper.livejournal.com/6922.html
+IDList=
+IconFile=http://l-stat.livejournal.net/img/userinfo.gif?v=17080?v=120.5
+IconIndex=1
