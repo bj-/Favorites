@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.aliexpress.com/store/group/Hisilicon-Solution/424420_254445914.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.aliexpress.com/store/group/Hisilicon-Solution/424420_254445914.html
+IDList=
+IconFile=http://style.aliexpress.com/images/eng/wholesale/icon/aliexpress.ico
+IconIndex=1
