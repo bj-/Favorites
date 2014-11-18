@@ -1,0 +1,21 @@
+[DEFAULT]
+BASEURL=http://www.7tutorials.com/how-rip-audio-cds-windows-media-player-12
+[DOC_google_ads_iframe_/3803347/7TutorialsTopLarge_0]
+BASEURL=http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html
+ORIGURL=http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html#xpc=sf-gdn-exp-1&p=http%3A//www.7tutorials.com
+[DOC_google_ads_iframe_/3803347/7TutorialsTopLarge_0__hidden__]
+BASEURL=http://www.7tutorials.com/how-rip-audio-cds-windows-media-player-12
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/3803347/7TutorialsBotMedium_0]
+BASEURL=http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html
+ORIGURL=http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html#xpc=sf-gdn-exp-2&p=http%3A//www.7tutorials.com
+[DOC_google_ads_iframe_/3803347/7TutorialsRightTop_0]
+BASEURL=http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html
+ORIGURL=http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html#xpc=sf-gdn-exp-3&p=http%3A//www.7tutorials.com
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.7tutorials.com/how-rip-audio-cds-windows-media-player-12
+IDList=
+IconFile=http://www.7tutorials.com/sites/all/themes/st/favicon.ico
+IconIndex=1

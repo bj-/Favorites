@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://arduino.ru/forum/proekty/zashchita-ot-glubokogo-razryada-na-attiny13a
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://arduino.ru/forum/proekty/zashchita-ot-glubokogo-razryada-na-attiny13a
+IDList=
+IconFile=http://arduino.ru/sites/default/files/framework_favicon.ico
+IconIndex=1
