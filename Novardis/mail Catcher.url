@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://komusdev.novardis.com:1080/
+[DOC#3592]
+BASEURL=http://komusdev.novardis.com:1080/messages/706.html
+ORIGURL=/messages/706.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://komusdev.novardis.com:1080/
+IDList=
+IconFile=http://komusdev.novardis.com:1080/favicon.ico
+IconIndex=1
+HotKey=0
