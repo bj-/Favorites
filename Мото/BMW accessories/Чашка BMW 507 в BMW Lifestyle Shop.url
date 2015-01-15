@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://shop.bmw.ru/products/drugie_tovary/chashka_bmw_507/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://shop.bmw.ru/products/drugie_tovary/chashka_bmw_507/
+IDList=
+IconFile=https://shop.bmw.ru/favicon.ico
+IconIndex=1
