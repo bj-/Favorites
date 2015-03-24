@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://habrahabr.ru/company/minirobot/blog/250385/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://habrahabr.ru/company/minirobot/blog/250385/
+IDList=
+IconFile=http://habrahabr.ru/favicon.ico
+IconIndex=1
