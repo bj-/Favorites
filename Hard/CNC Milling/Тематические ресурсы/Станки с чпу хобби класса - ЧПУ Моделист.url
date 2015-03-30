@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://cncmodelist.ru/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://cncmodelist.ru/
+IDList=
+IconFile=http://cncmodelist.ru/templates/beez_20/favicon.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.cnc4free.org/
+[DOC#32]
+BASEURL=http://www.cnc4free.org/PDL/_pub.htm
+ORIGURL=w.htm
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.cnc4free.org/PDL/_pub.htm
+IDList=
+IconFile=http://www.cnc4free.org/favicon.ico
+IconIndex=1
