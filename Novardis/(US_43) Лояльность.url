@@ -3,7 +3,8 @@ BASEURL=http://wiki.novardis.com/pages/viewpage.action?pageId=11108854
 [{000214A0-0000-0000-C000-000000000046}]
 Prop3=19,2
 [InternetShortcut]
-URL=http://wiki.novardis.com/pages/viewpage.action?pageId=11108854
+URL=http://wiki.nova/pages/viewpage.action?pageId=11108854
 IDList=
 IconFile=http://wiki.novardis.com/favicon.ico
 IconIndex=1
+HotKey=0
