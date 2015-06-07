@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://geektimes.ru/post/250362/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://geektimes.ru/post/250362/
+IDList=
+IconFile=http://geektimes.ru/images/favicon.png
+IconIndex=1

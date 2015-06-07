@@ -1,7 +1,7 @@
 [DEFAULT]
-BASEURL=http://posudacenter.dev.design.ru/
+BASEURL=http://hybris1qa.posuda.mng:8080/
 [{000214A0-0000-0000-C000-000000000046}]
 Prop3=19,2
 [InternetShortcut]
-URL=http://posudacenter.dev.design.ru/
+URL=http://hybris1qa.posuda.mng:8080/
 IDList=
