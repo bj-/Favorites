@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://spb.hh.ru/resume/8895312cff0235b29a0039ed1f41344c46514b
+[DOC_gemius_hcconn_1443683150099_35318929]
+BASEURL=http://ls.hit.gemius.pl/lsget.html
+ORIGURL=http://ls.hit.gemius.pl/lsget.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+Prop17=31,http://i.hh.ru/favicons/150x150.png
+Prop16=19,2
+Prop18=31,#ffffff
+[InternetShortcut]
+URL=http://spb.hh.ru/resume/8895312cff0235b29a0039ed1f41344c46514b
+IDList=
+IconFile=http://i.hh.ru/favicons/hh.ico?v=2015_03_17
+IconIndex=1
