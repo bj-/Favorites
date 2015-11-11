@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://cnc.userforum.ru/viewtopic.php?id=950
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://cnc.userforum.ru/viewtopic.php?id=950
+IDList=
+IconFile=http://cnc.userforum.ru/favicon.ico
+IconIndex=1
