@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.wallpaperup.com/
+[DOC_aswift_0]
+BASEURL=http://www.wallpaperup.com/
+ORIGURL=
+[DOC_aswift_1]
+BASEURL=http://www.wallpaperup.com/
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.wallpaperup.com/
+IDList=
+IconFile=http://www.wallpaperup.com/favicon.ico
+IconIndex=1
