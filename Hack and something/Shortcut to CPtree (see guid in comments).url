@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://superuser.com/questions/478283/how-to-create-a-shortcut-to-pc-settings
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://superuser.com/questions/478283/how-to-create-a-shortcut-to-pc-settings
+IDList=
+IconFile=http://cdn.sstatic.net/superuser/img/favicon.ico?v=29b26120d2c5
+IconIndex=1
