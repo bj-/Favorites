@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://forum.woodtools.ru/index.php?topic=44212.0
+[DOC#2057]
+BASEURL=http://forum.woodtools.ru/index.php?topic=44212.0
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://forum.woodtools.ru/index.php?topic=44212.0
+IDList=
+IconFile=http://forum.woodtools.ru/favicon.ico
+IconIndex=1

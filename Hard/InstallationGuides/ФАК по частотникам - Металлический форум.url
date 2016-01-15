@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.chipmaker.ru/topic/23888/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.chipmaker.ru/topic/23888/
+IDList=
+IconFile=http://www.chipmaker.ru/favicon.png
+IconIndex=1

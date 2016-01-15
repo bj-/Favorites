@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://habrahabr.ru/post/274895/
+[DOC_aswift_0]
+BASEURL=http://habrahabr.ru/post/274895/
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://habrahabr.ru/post/274895/
+IDList=
+IconFile=http://habrahabr.ru/favicon.ico
+IconIndex=1
