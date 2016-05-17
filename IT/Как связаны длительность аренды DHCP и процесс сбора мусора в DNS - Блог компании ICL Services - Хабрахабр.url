@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://habrahabr.ru/company/icl_services/blog/281410/
+[DOC_twitter-widget-0]
+BASEURL=https://platform.twitter.com/widgets/follow_button.fd774b599f565016d763dd860cb31c79.ru.html
+ORIGURL=https://platform.twitter.com/widgets/follow_button.fd774b599f565016d763dd860cb31c79.ru.html#dnt=false&id=twitter-widget-0&lang=ru&screen_name=icl_services&show_count=false&show_screen_name=true&size=l&time=1460627758685
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://habrahabr.ru/company/icl_services/blog/281410/
+IDList=
+IconFile=https://habrahabr.ru/images/favicons/favicon-32x32.png
+IconIndex=1
