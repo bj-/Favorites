@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://geektimes.ru/post/280828/
+[DOC#1681]
+BASEURL=https://st.yandexadexchange.net/match_r1261.html
+ORIGURL=https://st.yandexadexchange.net/match_r1261.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://geektimes.ru/post/280828/
+IDList=
+IconFile=https://geektimes.ru/images/favicons/favicon-32x32.png
+IconIndex=1
