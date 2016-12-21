@@ -1,0 +1,27 @@
+[DEFAULT]
+BASEURL=http://makita.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/sabelnye/akkumulyatornaya_sabelnaya_pila_makita_djr185rme/
+[DOC_AdFox_iframe_753050]
+BASEURL=http://makita.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/sabelnye/akkumulyatornaya_sabelnaya_pila_makita_djr185rme/
+ORIGURL=
+[DOC_easyXDM_flocktory_default8351_provider]
+BASEURL=https://api.flocktory.com/v2/provider.html?ns=flocktory&siteId=119&xdm_e=http%3A%2F%2Fmakita.vseinstrumenti.ru&xdm_c=default8351&xdm_p=1
+ORIGURL=https://api.flocktory.com/v2/provider.html?ns=flocktory&siteId=119&xdm_e=http%3A%2F%2Fmakita.vseinstrumenti.ru&xdm_c=default8351&xdm_p=1
+[DOC_xcnt_madnet_ifrm]
+BASEURL=http://makita.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/sabelnye/akkumulyatornaya_sabelnaya_pila_makita_djr185rme/
+ORIGURL=
+[DOC_xcnt_am_ifrm]
+BASEURL=http://makita.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/sabelnye/akkumulyatornaya_sabelnaya_pila_makita_djr185rme/
+ORIGURL=
+[DOC#6346]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=javascript:(function(){var d=document;d.createElement("img").src="https://www.facebook.com/tr/?id=1039402166134495&ev=ViewContent&cd%5Bcontent_type%5D=product&cd%5Bcontent_ids%5D=%255B%252261912%2522%255D&cd%5Bproduct_catalog_id%5D=432359143629821&cd%5Bproduct_category%5D=1136030799&cd%5Bcriteo_audience_3_0%5D=A3&cd%5Bexternal_id%5D=55436cb6-ee05-4824-9cf9-3e3453a68c84&cd%5Bapplication_id%5D=423936147658676";setTimeout(function(){d.open();d.write('');d.close();},1000);})();
+[DOC#6347]
+BASEURL=http://static.criteo.net/empty.html
+ORIGURL=//dis.eu.criteo.com/dis/dis.aspx?p=23517&cb=95108359097&ref=http%3A%2F%2Fmakita.vseinstrumenti.ru%2Finstrument%2Fakkumulyatornyj%2Fpily%2Fsabelnye%2Fsabelnaya_pila_makita_djr185z%2F&sc_r=1920x1080&sc_d=24
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://makita.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/sabelnye/akkumulyatornaya_sabelnaya_pila_makita_djr185rme/
+IDList=
+IconFile=http://makita.vseinstrumenti.ru/favicon.ico
+IconIndex=1
