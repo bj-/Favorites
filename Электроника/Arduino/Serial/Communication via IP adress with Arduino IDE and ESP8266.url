@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://arduino.stackexchange.com/questions/17787/communication-via-ip-adress-with-arduino-ide-and-esp8266
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://arduino.stackexchange.com/questions/17787/communication-via-ip-adress-with-arduino-ide-and-esp8266
+IDList=
+IconFile=https://cdn.sstatic.net/Sites/arduino/img/favicon.ico?v=9b9d74e64022
+IconIndex=1

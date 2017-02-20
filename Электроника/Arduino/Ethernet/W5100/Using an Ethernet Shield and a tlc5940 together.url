@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://arduino.stackexchange.com/questions/6601/using-an-ethernet-shield-and-a-tlc5940-together
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://arduino.stackexchange.com/questions/6601/using-an-ethernet-shield-and-a-tlc5940-together
+IDList=
+IconFile=https://cdn.sstatic.net/Sites/arduino/img/favicon.ico?v=9b9d74e64022
+IconIndex=1

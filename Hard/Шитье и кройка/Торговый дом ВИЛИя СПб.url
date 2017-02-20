@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://viliaspb.ru/
+[DOC#1016]
+BASEURL=http://front.facetz.net/crossd_pluso_iframe.html
+ORIGURL=http://front.facetz.net/crossd_pluso_iframe.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://viliaspb.ru/
+IDList=
+IconFile=http://viliaspb.ru/wp-content/uploads/2016/12/favicon.ico
+IconIndex=1
