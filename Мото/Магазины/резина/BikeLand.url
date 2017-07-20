@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://bikeland.ru/directory/motorezina/motoshiny_i_motopokryshki/
+[DOC_jivo_container]
+BASEURL=https://bikeland.ru/directory/motorezina/motoshiny_i_motopokryshki/
+ORIGURL=javascript:false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://bikeland.ru/directory/motorezina/motoshiny_i_motopokryshki/
+IDList=
+IconFile=https://bikeland.ru/favicon.ico?1486739414
+IconIndex=1

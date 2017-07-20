@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=https://spb.express-shina.ru/search/motoshinyi?_Posadochnyiy_diametr_motoshinyi=17&_SHirina_profilya_motoshinyi=150&_Vyisota_profilya_motoshinyi=70&_rest=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+Prop17=31,https://spb.express-shina.ru/win-tile-270x270.png
+Prop16=19,2
+Prop18=31,#d92626
+Prop19=31,/win-tile.xml
+[InternetShortcut]
+URL=https://spb.express-shina.ru/search/motoshinyi?_Posadochnyiy_diametr_motoshinyi=17&_SHirina_profilya_motoshinyi=150&_Vyisota_profilya_motoshinyi=70&_rest=1
+IDList=
+IconFile=https://spb.express-shina.ru/icon-64x64.png
+IconIndex=1
