@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.redlaika.ru/collection/greyuschie-komplekty
+[DOC_jivo_container]
+BASEURL=http://www.redlaika.ru/collection/greyuschie-komplekty
+ORIGURL=javascript:false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.redlaika.ru/collection/greyuschie-komplekty
+IDList=
+IconFile=https://assets3.insales.ru/assets/1/3384/871736/v_1507516186/build/favicon.png
+IconIndex=1
