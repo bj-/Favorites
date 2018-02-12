@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://jlcpcb.com/quote
+[DOC#649]
+BASEURL=https://jlcpcb.com/quote
+ORIGURL=
+[DOC#650]
+BASEURL=https://jlcpcb.com/quote
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://jlcpcb.com/quote
+IDList=
+IconFile=https://jlcpcb.com/images/pcbtitle-225ca0e076.png
+IconIndex=1

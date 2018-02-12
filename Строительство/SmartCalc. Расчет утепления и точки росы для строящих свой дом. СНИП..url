@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.smartcalc.ru/thermocalc?&gp=212&rt=0&ct=0&os=0&ti=20&to=-10&hi=55&ho=85&ld0=120&le0=1&lt0=0&mm0=161&ld1=4000&le1=1&lt1=0&mm1=447&ld2=0&le2=1&lt2=0&mm2=575&ld3=1000&le3=1&lt3=0&mm3=573&ld4=100&le4=1&lt4=0&mm4=78&ld5=1&le5=1&lt5=0&mm5=557&ld6=500&le6=1&lt6=0&mm6=425&ld7=120&le7=1&lt7=0&mm7=401
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.smartcalc.ru/thermocalc?&gp=212&rt=0&ct=0&os=0&ti=20&to=-10&hi=55&ho=85&ld0=120&le0=1&lt0=0&mm0=161&ld1=4000&le1=1&lt1=0&mm1=447&ld2=0&le2=1&lt2=0&mm2=575&ld3=1000&le3=1&lt3=0&mm3=573&ld4=100&le4=1&lt4=0&mm4=78&ld5=1&le5=1&lt5=0&mm5=557&ld6=500&le6=1&lt6=0&mm6=425&ld7=120&le7=1&lt7=0&mm7=401
+IDList=
+IconFile=https://www.smartcalc.ru/favicon.ico
+IconIndex=1
