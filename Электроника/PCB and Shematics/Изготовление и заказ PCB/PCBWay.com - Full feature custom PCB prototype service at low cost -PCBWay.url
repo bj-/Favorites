@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://www.pcbway.com/orderonline.aspx?ad=cxem.net&y=100&x=500&num=10&Layersquote=2&Thicknessquote=1.6
+[DOC_olark-loader]
+BASEURL=https://www.pcbway.com/orderonline.aspx?ad=cxem.net&y=100&x=500&num=10&Layersquote=2&Thicknessquote=1.6
+ORIGURL=
+[DOC#1432]
+BASEURL=https://www.pcbway.com/orderonline.aspx?ad=cxem.net&y=100&x=500&num=10&Layersquote=2&Thicknessquote=1.6
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.pcbway.com/orderonline.aspx?ad=cxem.net&y=100&x=500&num=10&Layersquote=2&Thicknessquote=1.6
+IDList=
+IconFile=https://www.pcbway.com/favicon.ico
+IconIndex=1
