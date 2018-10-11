@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.spbkoleso.ru/moto-shini.html
+[DOC_rh-chatFrame]
+BASEURL=https://web.redhelper.ru/chat/?c=spbkoleso&skin=material&version=3.1.539.1524133819132
+ORIGURL=https://web.redhelper.ru/chat/?c=spbkoleso&skin=material&version=3.1.539.1524133819132#eyJ1cmwiOiJodHRwczovL3d3dy5zcGJrb2xlc28ucnUvbW90by1zaGluaS5odG1sIiwiY29tcGFueUlkIjoxODgwMDksInNldHRpbmdzIjp7InRlbXBsYXRlIjoidGVtcGxhdGUtbWF0ZXJpYWwuaHRtbCJ9fQ==
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.spbkoleso.ru/moto-shini.html
+IDList=
+IconFile=https://www.spbkoleso.ru/favicon.ico
+IconIndex=1
