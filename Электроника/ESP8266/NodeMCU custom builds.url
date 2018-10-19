@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://nodemcu-build.com/
+[DOC_aswift_0]
+BASEURL=https://nodemcu-build.com/
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://nodemcu-build.com/
+IDList=
+IconFile=https://nodemcu-build.com/images/favicon.png
+IconIndex=1
