@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://fastnvr.ru/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://fastnvr.ru/
+IDList=
+IconFile=https://fastnvr.ru/image/data/icon2.png
+IconIndex=1

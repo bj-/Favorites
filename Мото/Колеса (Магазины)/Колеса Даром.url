@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.kolesa-darom.ru/moskva/moto/
+[DOC#3395]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=javascript:(function(){var d=document;d.createElement("img").src="https://www.facebook.com/tr/?id=466702893674090&ev=Search&cd%5Bcontent_type%5D=product&cd%5Bcontent_ids%5D=%255B%25228711898738106216096%2522%252C%25227131669884331440645%2522%252C%2522-2658938158372079452%2522%255D&cd%5Bproduct_catalog_id%5D=1904879243122344&cd%5Bproduct_category%5D=0&cd%5Bcriteo_audience_3_0%5D=A3&cd%5Bexternal_id%5D=da2065c7-f290-4045-9668-49aa48ace51a&cd%5Bapplication_id%5D=423936147658676";setTimeout(function(){d.open();d.write('');d.close();},1000);})();
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.kolesa-darom.ru/moskva/moto/
+IDList=
+IconFile=https://www.kolesa-darom.ru/favicon.ico
+IconIndex=1
