@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://zagorod.spb.ru/kottedjnie-poselki/spb-lenoblast?f_has_house=1&f_electricity_supply=1&f_gas_supply=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://zagorod.spb.ru/kottedjnie-poselki/spb-lenoblast?f_has_house=1&f_electricity_supply=1&f_gas_supply=1
+IDList=
+IconFile=https://zagorod.spb.ru/favicon.ico
+IconIndex=1
