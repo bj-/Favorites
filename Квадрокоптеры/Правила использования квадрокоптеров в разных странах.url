@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://tugbaev.ru/kvadrokoptery_v_raznyh_stranah/
+[DOC_jivo_container]
+BASEURL=http://tugbaev.ru/kvadrokoptery_v_raznyh_stranah/
+ORIGURL=javascript:void(0)
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://tugbaev.ru/kvadrokoptery_v_raznyh_stranah/
+IDList=
+IconFile=http://tugbaev.ru/wp-content/uploads/2016/01/favicon_tugbaev4.png
+IconIndex=1
