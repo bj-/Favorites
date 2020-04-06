@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://habr.com/ru/company/unwds/blog/390601/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+Prop17=31,https://habr.com/images/mstile-150x150.png?v=kPxJdyv3a8
+Prop16=19,2
+Prop18=31,#77a2b6
+[InternetShortcut]
+URL=https://habr.com/ru/company/unwds/blog/390601/
+IDList=
+IconFile=https://habr.com/images/favicon-32x32.png
+IconIndex=1
