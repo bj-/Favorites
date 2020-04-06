@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://torgi.gov.ru/index.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://torgi.gov.ru/index.html
+IDList=
+IconFile=https://torgi.gov.ru/favicon.ico
+IconIndex=1
